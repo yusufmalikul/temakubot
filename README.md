@@ -1,2 +1,2 @@
-# temakubot
+# Temakubot
 Chatbot Temaku
